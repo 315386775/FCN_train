@@ -14,3 +14,9 @@ add_color to images
 
 3. The third step
 post_process, convert png24 to png8
+
+4. Data Augmentation
+keras_dataAug: Use the kreas to augment the image. 
+dataAugment: The origin method to augment the image.
+Jitering: The method use in alexnet network.
+
